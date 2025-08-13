@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a{
+    color:black;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+img{
+    width: 1225px;
+}
+h1{
+    font-size: 50px;
+}
+
+p img{
+    width: auto;
+    border-left: 10px dotted black;
+    margin-left: 50px;
+}
+
+.q{
+    border: solid 5px black;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: large;
+}
+td{
+    border:20px solid black ;
+}
